@@ -1,7 +1,7 @@
 {
     "py/object": "pros.conductor.project.Project",
     "py/state": {
-        "project_name": "Spin-up",
+        "project_name": "New Project",
         "target": "v5",
         "templates": {
             "autoSelect": {
